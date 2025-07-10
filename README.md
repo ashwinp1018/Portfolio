@@ -21,7 +21,7 @@ https://portfolio-xi-flax-dyuc07siu8.vercel.app
 
 /portfolio             → React frontend
 /contact-backend    → Node.js email backend
-/public/resume.pdf  → Your downloadable resume
+/public/resume.pdf  → My downloadable resume
 
 ````
 
