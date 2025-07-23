@@ -31,11 +31,11 @@ const projects = [
   },
   {
     id: 4,
-    title: 'Consulting Firm Webpage',
+    title: 'OmniFood',
     index: '(04)',
-    description: 'Developed a professional website for a consulting firm using HTML, CSS, and JavaScript. The site features a responsive layout, service sections, contact form, and smooth animations to enhance user engagement and showcase the firms expertise effectively.',
+    description: 'A fully responsive front-end website for a fictional premium food delivery service, Omnifood. Built using HTML5, CSS3, and custom grid systems, this project showcases modern design principles, mobile-first responsiveness, and engaging UI components without any external frameworks.',
     image: project4,
-    link: 'https://github.com/yourusername/fullstack-app',
+    link: 'https://github.com/ashwinp1018/OmniFood',
   },
 ];
 
