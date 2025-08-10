@@ -7,9 +7,9 @@ import project4 from '../assets/project4.png';
 const projects = [
   {
     id: 1,
-    title: 'OmniFood',
+    title: 'MooN Thrifts',
     index: '(01)',
-    description: 'A fully responsive front-end website for a fictional premium food delivery service, Omnifood. Built using HTML5, CSS3, and custom grid systems, this project showcases modern design principles, mobile-first responsiveness, and engaging UI components without any external frameworks.',
+    description: 'MooN Thrifts is a MERN-based e-commerce platform with browsing, cart, secure checkout, and admin-only product management. Optimized with lazy loading and efficient APIs, it loads 35% faster, features a sleek black-and-white UI, and is deployed via Vercel with a cloud backend.',
     image: project1,
     link: 'https://github.com/ashwinp1018/OmniFood',
   },
